@@ -25,8 +25,9 @@ body{
     font-family: comfortaa;
     position: fixed;
     top: 25%;
-    right: 33%;
     color: pink;
+    left: 40%;
+    width: 600px;
 }
 
 
